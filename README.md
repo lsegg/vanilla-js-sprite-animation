@@ -1,6 +1,6 @@
 # Vanilla JavaScript sprite animation
 
-This is the first project from the [JavaScript Game Development Course for Beginners](https://www.youtube.com/watch?v=GFO_txvwK_c) by freeCodeCamp, the goal was to create the layout of the landing page of a Podcast channel, following the visual guides of a provided user interface and developing functionalities of content reproduction, navigation and compatibility with multiple browsers and devices.
+This is the first project from the [JavaScript Game Development Course for Beginners](https://www.youtube.com/watch?v=GFO_txvwK_c) by freeCodeCamp.
 
 ## Built with 🛠️
 
